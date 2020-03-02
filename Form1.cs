@@ -29,8 +29,7 @@ namespace создание_исходных_данных
                 ExpertCount = expertCount,
                 ConstructionMethod = ConstructionMethod.First,
                 TermList = new List<string>() { "Низкий", "Высокий" },
-                TermValueList = columnsNames,
-                MatrixList = new List<List<int>>()
+                TermValueList = columnsNames
             };
             FormObjectClass.DataGridView = dataGridView1;
             FormObjectClass.Form1 = this;
