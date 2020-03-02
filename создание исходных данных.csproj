@@ -52,6 +52,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataClass.cs" />
+    <Compile Include="ExpertDataClass.cs" />
     <Compile Include="ExpertZhopa.cs" />
     <Compile Include="ConstructionMethod.cs" />
     <Compile Include="Form1.cs">
